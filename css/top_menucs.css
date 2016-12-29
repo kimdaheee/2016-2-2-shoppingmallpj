@@ -1,0 +1,26 @@
+#topMenu{
+  margin-top: 80px;
+
+}
+#topMenu ul li {
+              list-style: none;
+              color: white;
+              background-color:#9A8C8C;
+              float: left;
+              line-height: 40px;
+              vertical-align: middle;
+              text-align: center;
+      }
+#topMenu .menuLink {
+              text-decoration:none;
+              color: white;
+              display: block;
+              width: 150px;
+              font-size: 17px;
+              font-weight: bold;
+              font-family: '나눔스퀘어', serif;
+      }
+#topMenu .menuLink:hover {
+              color: black;
+              background-color: gray;
+      }
